@@ -6,7 +6,7 @@ See issues tab
 -Clone repo<br>
 `git clone http://github.com/bobmchenry/teamgitdemo.git`<br>
 -Create new branch labeled with issue number<br>
-`git checkout -b <branchname>`<br>
+`git checkout -b <branchname> develop`<br>
 -Link new branch to remote repo<br>
 `git push --set-upstream origin <branchname> `<br>
 -Perform tasks in issue, commit and stage as normal<br>
